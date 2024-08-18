@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\controllers\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\controllers\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\controllers\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\controllers\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\models\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\models\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\controllers\\itelegramupdatelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\controllers\\itelegramupdatelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\servicesbot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\servicesbot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\desktop\\servicesbot\\servicesbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E47A2619-6062-41FA-B067-86755CA1F085}|ServicesBot\\ServicesBot.csproj|solutionrelative:servicesbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Models\\Bot.cs",
+              "RelativeDocumentMoniker": "ServicesBot\\Models\\Bot.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Models\\Bot.cs",
+              "RelativeToolTip": "ServicesBot\\Models\\Bot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:41.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\Commands\\StartCommand.cs",
+              "RelativeDocumentMoniker": "ServicesBot\\Controllers\\Commands\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\Commands\\StartCommand.cs",
+              "RelativeToolTip": "ServicesBot\\Controllers\\Commands\\StartCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:41.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\BotController.cs",
+              "RelativeDocumentMoniker": "ServicesBot\\Controllers\\BotController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\BotController.cs",
+              "RelativeToolTip": "ServicesBot\\Controllers\\BotController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:41.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "ServicesBot\\Controllers\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\Commands\\ICommand.cs",
+              "RelativeToolTip": "ServicesBot\\Controllers\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:41.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Program.cs",
+              "RelativeDocumentMoniker": "ServicesBot\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Program.cs",
+              "RelativeToolTip": "ServicesBot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:41.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServicesBot\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServicesBot\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T16:42:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicesBot.http",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\ServicesBot.http",
+              "RelativeDocumentMoniker": "ServicesBot\\ServicesBot.http",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\ServicesBot.http",
+              "RelativeToolTip": "ServicesBot\\ServicesBot.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T17:28:03.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITelegramUpdateListener.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\ITelegramUpdateListener.cs",
+              "RelativeDocumentMoniker": "ServicesBot\\Controllers\\ITelegramUpdateListener.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\Controllers\\ITelegramUpdateListener.cs",
+              "RelativeToolTip": "ServicesBot\\Controllers\\ITelegramUpdateListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:56:26.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\appsettings.json",
+              "RelativeDocumentMoniker": "ServicesBot\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Desktop\\ServicesBot\\ServicesBot\\appsettings.json",
+              "RelativeToolTip": "ServicesBot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T16:42:41.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesBot", "ServicesBot\ServicesBot.csproj", "{E47A2619-6062-41FA-B067-86755CA1F085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBotTest", "ServiceBotTest\ServiceBotTest.csproj", "{6E20022D-7CE3-4CF3-950E-1359F302996A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47A2619-6062-41FA-B067-86755CA1F085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47A2619-6062-41FA-B067-86755CA1F085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47A2619-6062-41FA-B067-86755CA1F085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47A2619-6062-41FA-B067-86755CA1F085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E20022D-7CE3-4CF3-950E-1359F302996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E20022D-7CE3-4CF3-950E-1359F302996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E20022D-7CE3-4CF3-950E-1359F302996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E20022D-7CE3-4CF3-950E-1359F302996A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376AB6CC-145B-4D53-962E-B00F1132136A}
+	EndGlobalSection
+EndGlobal
