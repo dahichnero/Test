@@ -81,3 +81,9 @@
 
 В дальнейшем мы можем выбрать себе подписку, если захотим вернуться.
 
+## Ссылка на бота
+Ссылка на бота: https://t.me/OurServicesBot
+
+## Docker
+Ссылка на репозиторий из DockerHub: https://hub.docker.com/repository/docker/dahichnero/servicesbot/general
+
