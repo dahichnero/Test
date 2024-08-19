@@ -9,7 +9,7 @@
 5. Заходим через cmd и пишем команду ngrok config add-authtoken {ваш автотокен из раздела Setup & Installation}
 ## Тоннель
 После проделанных действий необходимо достать webhook. Для этого:
-1. в cmd пишем команду ngrok http http://localhost:7243
+1. в cmd пишем команду ngrok http http://localhost:7243 ![ссылка](needurl.png)
 2. полученную ссылку из Forwarding используем для следующей ссылки: https://api.telegram.org/bot7103996505:AAE0HqDfoB-np5eaoEsLvDhydB7PGf9yEvU/setWebhook?url={yourwebhookurl}
 3. Открываем ссылку и получаем следующую картину:
 ## Запуск приложения
